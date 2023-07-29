@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  padding: 20px;
+}
+.comment-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.heading {
+  color: #1e293b;
+  font-size: 40px;
+  margin-bottom: 100px;
+}
+.description {
+  color: #475569;
+  font-size: 16px;
+  font-family: roboto;
+}
+.inputEl {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.textareaEl {
+  font-family: roboto;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #0284c7;
+  padding: 10px;
+  opacity: 0.9;
+  cursor: pointer;
+  font-family: roboto;
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+}
+.comment-image-container {
+  margin-top: 50px;
+}
+.comment-image {
+  height: 400px;
+  margin-top: 40px;
+}
+.hr-line {
+  font-size: 2px;
+  margin: 10px;
+}
+.count {
+  background-color: #0284c7;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  margin: 5px;
+}
+.style {
+  color: #475569;
+  font-family: roboto;
+  font-size: 16px;
+}
